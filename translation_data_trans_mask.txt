@@ -1,0 +1,3 @@
+/,transv_mask_fr_en_train.json,false
+/,transv_mask_de_en_train.json,false
+/,transv_mask_ro_en_train.json,false

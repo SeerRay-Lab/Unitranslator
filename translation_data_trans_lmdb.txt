@@ -1,0 +1,5 @@
+/,/mnt/vlm-ks3/ljh/data/yztian/MTedIIMT/mtediimt/subset_en_de_lmdb/train,false
+/,/mnt/vlm-ks3/ljh/data/yztian/MTedIIMT/mtediimt/subset_en_cs_lmdb/train,false
+/,/mnt/vlm-ks3/ljh/data/yztian/MTedIIMT/mtediimt/subset_en_fr_lmdb/train,false
+/,/mnt/vlm-ks3/ljh/data/yztian/MTedIIMT/mtediimt/subset_en_ro_lmdb/train,false
+/,/mnt/vlm-ks3/ljh/data/yztian/MTedIIMT/mtediimt/subset_en_ru_lmdb/train,false

@@ -1,0 +1,3 @@
+/,translation_dataset_validated_de_en_self_train.json,false
+/,translation_dataset_validated_en_fr_self_train.json,false
+/,translation_dataset_validated_ro_en_self_train.json,false
