@@ -1,7 +1,7 @@
 # UniTranslator: A Unified Multi-modal Framework for End-to-end In-Image Machine Translation
 
 <p align="center">
-📖 <a href="" target="_blank">arXiv</a> · ⭐ <a href="" target="_blank">GitHub</a>
+📖 <a href="https://arxiv.org/abs/2606.24333" target="_blank">arXiv</a> · ⭐ <a href="https://github.com/SeerRay-Lab/Unitranslator" target="_blank">GitHub</a>
 </p>
 
 ## 📰 News
