@@ -6,7 +6,13 @@
 
 ## 📰 News
 
-🚀 **[2026-3-13]** Our code is now available on Github.
+🚀 **[2026-6-18]** Our paper is accepted by ECCV 2026.
+
+🚀 **[2026-6-24]** Our paper is now available on [arXiv](https://arxiv.org/abs/2606.24333) .
+
+🚀 **[2026-6-26]** Our code is now available on GitHub.
+
+
 
 ## Abstract
 ![Motivation](assets/uni-motivation.png)
@@ -105,7 +111,7 @@ Please cite this work if you find it useful:
 @article{lyu2026unitranslator,
     title={UniTranslator: A Unified Multi-modal Framework for End-to-end In-Image Machine Translation},
     author={Jiahao Lyu, Pei Fu, Zhenhang Li, Shaojie Zhang, Jiahui Yang, Can Ma, Yu Zhou, Zhenbo Luo, Jian Luan},
-    journal={arXiv preprint arXiv:xxx},
+    journal={arXiv preprint arXiv:2606.24333},
     year={2026}
     }
 ```
