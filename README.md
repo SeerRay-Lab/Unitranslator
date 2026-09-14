@@ -1,10 +1,11 @@
 # UniTranslator: A Unified Multi-modal Framework for End-to-end In-Image Machine Translation
 
 <p align="center">
-📖 <a href="https://arxiv.org/abs/2606.24333" target="_blank">arXiv</a> · ⭐ <a href="https://github.com/SeerRay-Lab/Unitranslator" target="_blank">GitHub</a>
+📖 <a href="https://arxiv.org/abs/2606.24333" target="_blank">arXiv</a> · ⭐ <a href="https://github.com/SeerRay-Lab/Unitranslator" target="_blank">GitHub</a> ·  🤗 <a href="https://huggingface.co/SeerRay-Lab/Unitranslator" target="_blank">Huggingface</a>
 </p>
 
 ## 📰 News
+🚀 **[2026-9-14]** Our model is now available on [HuggingFace](https://huggingface.co/SeerRay-Lab/Unitranslator).
 
 🚀 **[2026-6-18]** Our paper is accepted by ECCV 2026.
 
